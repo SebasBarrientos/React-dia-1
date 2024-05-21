@@ -1,0 +1,8 @@
+.flex {
+    display: flex;
+    justify-content: center;
+    background-color: Black;
+    color: white;
+    margin-top: 0;
+
+}
